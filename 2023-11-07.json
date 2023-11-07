@@ -1,0 +1,26 @@
+{
+  "name": "Mary Clark",
+  "age": 26,
+  "address": {
+    "street": "Domi Trail",
+    "city": "Wemeda",
+    "state": "DC",
+    "zip": "78414"
+  },
+  "contact": {
+    "phone": "(200) 999-4865",
+    "servicePhone": "800844751"
+  },
+  "birthday": "1991-06-23T06:14:35.746Z",
+  "ip": "164.118.58.178",
+  "foo": "bar",
+  "profile": {
+    "about": "Om azoco zela duktafi ubi tofukhaz mi huf cowejoefu wi jeltujcil bobel mekimdi wew. Bunzec mi fof fi su turapa ijolofna burgil tajsewuw warsola imokih pizticud kupifmu ni. Wewic jeepwow za lic ebewejo duzospil wekmufivi afiala venhoj meseligi unufebu pasooga ke ji ifpaco wepovetuz.",
+    "bio": "Ew cirivose toobon kemuwo la ju muplud tufgen rurempej nur ociuso sesodacic koedmel agewewuf zehohze. Zu cup kufep animobu muzhibfe tuca favgor zawse wautorum miblitik fogkoshi bi totocala avpo biofain ampibeh fanjo tidcomi. Kirpodon juc veztu uludauf ca gepib ewulahde uh zoikiri sijah likot ro etiavawu ufe lavaun duw worokpag. Fib fer gazen ul fe pow tafzi tazuze to canehad gifoti ewifif fevir zimilviv facidic sahevgav. Kafihidi tunucow koc luhi banik cesma jomibioz ezuaw hahucho he no dol. Zaowa palihum sueduji woj lap naw je hukdubso bocukiw edzem duw koglagnas ubojomeh ebu."
+  },
+  "apiKey": "86de775d940a8bad4f0a6e46a289f27fd8470478769004442a747b8e7a9da9ec",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
