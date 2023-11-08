@@ -1,0 +1,26 @@
+{
+  "name": "Ida Norris",
+  "age": 48,
+  "address": {
+    "street": "Ciwru Pass",
+    "city": "Jecauzi",
+    "state": "HI",
+    "zip": "96320"
+  },
+  "contact": {
+    "phone": "(823) 204-7618",
+    "servicePhone": "800536274"
+  },
+  "birthday": "1990-12-04T18:53:38.395Z",
+  "ip": "242.181.225.33",
+  "foo": "bar",
+  "profile": {
+    "about": "Filu nuvik jajwil ri inonog wag cebavsa ag vuhagvob id vega huh ha veewa misiw. Fozicagal nef rosazi ziod aldaz zaehiru me dahan muhoz vunlucve ov vun fu uke pofgavlav. Vegmasow egugouze muta naivojo holuf bepiro gorgipe re pejika paju ulo dirfegpit otamowi wohwafib.",
+    "bio": "Kih jiwka zifamu kuleti ta ba musga figgud porakvo rologgu nur basiufu. Hal akmocon izohoczo jaum nujul vagkitfew irweha jup tilcotsiv cakovi evnidle sirpag ejico icadeujo pod vaj zebdi. Emfuf uc voanu monaras rurbidic kecicubeb feko zorizma novgo noz cubgotu ob fejkov nej polcawpu zaheceli. Sobcadir posovi ju lazboli atbijfof zapet zobi galoset la dakeloc hopa nabug kuatugun jutti etohu ku so ro."
+  },
+  "apiKey": "c5971556445c4c3ba61bdc31337aa293a0fc1641e6aef8c1a7b14feda532893d",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
