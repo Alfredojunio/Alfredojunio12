@@ -1,0 +1,26 @@
+{
+  "name": "Billy Sims",
+  "age": 48,
+  "address": {
+    "street": "Bige Pike",
+    "city": "Cinozric",
+    "state": "VT",
+    "zip": "35131"
+  },
+  "contact": {
+    "phone": "(414) 974-4772",
+    "servicePhone": "800478742"
+  },
+  "birthday": "1965-04-20T05:46:36.503Z",
+  "ip": "187.89.120.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Tum on ilaem peb fu ubi jij zulawoj mebac aj wop picoku olbo sirdor ewaic tu wotofe fazwe. Ibuma va vias garrod cem hokhu tevlar uvematuto pu nombemwe pafire berlej cel op co fi pauniav menewzug. Dap dig tiwa papahed wub pured fo nujdurkig nalti ne runodol to lit dokik woc. Ki sajjuben lo umebosor zahe ha nob amatfo ku decep ehduuke mugo noj sonoje tono. Pi nakvi ki mimho tuewwas va avadiz opume tegzoj okideure ve fuh iso. Kofvin nizit faz riowo nehmu lejdab rohaev ves ihi kudceta udi kaelovud.",
+    "bio": "Pid igho cusevvi coke pisupmun fululho uhigbof mogsa cin unijil coblujlih deddakze devohcu kocahu. Sodanbu oru wokpoih wocwa levesi cobosa af gaj fe olusno ig teveg buodsi. Mu nutravjig jigos iweefe mekuvji og gogcuw heperhuv ohukjum holpooci rama soreg ifa bawinoj kite ujfa."
+  },
+  "apiKey": "dbf3513d17a592e5a87babd0789d9b93a05c15127bdcaeedc0608b079f511169",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
