@@ -1,0 +1,26 @@
+{
+  "name": "Jorge Gill",
+  "age": 60,
+  "address": {
+    "street": "Cabuf Ridge",
+    "city": "Reccudu",
+    "state": "MT",
+    "zip": "19596"
+  },
+  "contact": {
+    "phone": "(536) 740-6634",
+    "servicePhone": "800378342"
+  },
+  "birthday": "2000-07-30T21:37:08.077Z",
+  "ip": "53.57.121.102",
+  "foo": "bar",
+  "profile": {
+    "about": "Ma dijsu fana dozpucze rifok opvah sega ce so feumvog lev ke famizfi rowan. Libbuja tojsuzpej caatiji kefaw pu ogdeuje ke eboivtew bihfegvi lez debpov cuspugvas dislen. Rupidmer hiwu dukgorne it opacene cuma juge sinnozof gogugva padebbid la vi wul. Meppoztob secmagof vator koolegoz as zaf betbofwa kohte jodu agwod jamehmof uvu deov.",
+    "bio": "Ut tekhol lu ku seve asolir dodbiw gal efi izorohoz wubu jozsijbem rardufos. Majob timze faihmof hizisku icdas ju devo ohuguvi sevakcej tuce huwret ka epbelga caffacrol. Tutawni vove zas ve igo jewhedan nuw ne vog lauvo wi uzzu tivsuj piw wamij wiw cu ovire. Ri fob fic pi av hahuf zirna puvin wucoza jaz gemoni wiwpowan. Gag kopoal ucuvo zor luzij hu oswi rut iz gusik ebi buhu buapdo zanuib laco ci gaccujgu. Ep majoz tawe ze ripe hezef cap du ejaluput nutodla nabce esasopkes doazke. Su medle lomozor lujku wo ano peiwe bodcakgog hi wunuste pipizi mage panmu zota."
+  },
+  "apiKey": "af4ad8dd917f1c469cfbb828b59b8302ed490482ede5315959496bbb528dbf14",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
