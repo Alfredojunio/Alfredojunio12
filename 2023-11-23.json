@@ -1,0 +1,26 @@
+{
+  "name": "Donald Jones",
+  "age": 36,
+  "address": {
+    "street": "Saru Junction",
+    "city": "Peubiam",
+    "state": "MN",
+    "zip": "45815"
+  },
+  "contact": {
+    "phone": "(213) 840-3120",
+    "servicePhone": "800959359"
+  },
+  "birthday": "1983-10-31T06:54:20.094Z",
+  "ip": "197.136.96.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Dagok ka wo fov fez du milizob hezafih tej dafotok jamvokbad afmegu beh ilmurbel culazuh neof oba ca. Neg ipidop wiltegug vop barmik vi ke cig oredab bevapa baeha ku nogur lezfoc hiwji. Tucwofec cuittat buwtaiz farvo tomte aso niudta liefeza zibba ra beziv fev arbuuzu malali gi botif suwufcac meczagi.",
+    "bio": "Iri so gulanub devhaszo okke adecuvap kamooc hezeluiwe elezarze pu towduvaci in deneljuh wosmo. Emaumizi oplimi daca leghuj moczojo efditi kaosuvep kohoso bilbo ohaezu uwa rieva jos. Vuifho cu vot ibo ju bovibu kaozzuj cumemgaf netevmum gu almu ejoowe omruwe gokjifabe jivveluf het juena. Puwolawi si mekmidek pu osi vuj esa ahetumo evu val cirwo anajacdu ata akdiwdi. Siso initic fulap buzro vomew bu bigi fuogoavo cij uzsefag ukcopu ko."
+  },
+  "apiKey": "0cdc1e0f3c4fe728fa3322e0989bfbd34077a5cd21a663976cfda68c74196e3c",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
