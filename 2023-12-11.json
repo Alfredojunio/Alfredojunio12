@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Buchanan",
+  "age": 24,
+  "address": {
+    "street": "Made Extension",
+    "city": "Inohova",
+    "state": "VA",
+    "zip": "97393"
+  },
+  "contact": {
+    "phone": "(807) 429-6419",
+    "servicePhone": "800851927"
+  },
+  "birthday": "1964-12-31T16:10:33.838Z",
+  "ip": "9.228.220.57",
+  "foo": "bar",
+  "profile": {
+    "about": "Evuhaize lufvaj oh uduvwip uvbawbe siro jim here jaci ere seev ra olu cef. Tidsat ipdehom lab jotwa fuwucun he gases pilelta una adaoc kazus gihrib hordebu. Vivis mawu wapeg rowibiv nari ilupib su muc nez moru pofva sisup mic si wued cuf dej ami.",
+    "bio": "Digmopa idapuh tud duz iz laja piwug ibkef nab adoadeopa recob kis laucwel pazo suzmoz merita. Melop meropmob ja amaju avukitop dopmel jug ipuhejvow hekuto vilco eckon fehledpin vapa nuda zat bomeiv do ij. Ambazlah fihi raf sen nejseg fizdi wahfuhpuc okgevbo hib vascur voplib bajij zobivde emaijecu rewu gik. Ofmo takdonud iltifba zor pa urarib ima jewti zokfan ure ga heb lip keluc tu se kokolme agdurofe."
+  },
+  "apiKey": "9d4c989fe74722ce03adde8fd980e8834f05c399554c339508a7564ed3f357f4",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}
