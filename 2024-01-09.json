@@ -1,0 +1,26 @@
+{
+  "name": "Randall Hayes",
+  "age": 39,
+  "address": {
+    "street": "Wiro Way",
+    "city": "Wacifva",
+    "state": "RI",
+    "zip": "89978"
+  },
+  "contact": {
+    "phone": "(250) 761-1242",
+    "servicePhone": "800562214"
+  },
+  "birthday": "1978-03-27T13:51:12.184Z",
+  "ip": "242.94.105.211",
+  "foo": "bar",
+  "profile": {
+    "about": "Goz seb reddoj icamama dun niku orifum jipisi umadi lopi hov le. Cusego cu kiad gozopib wif pen ece no mila tad talubpim aze. Vah fizapci uf usi udnuha hop uniwafuw fumatol ef atoga es umbube sivhavto kul gigepre pimut rit gohmu.",
+    "bio": "Fed judjur ki tialfuk guuveto de emok wo gut omelevfuv fafadofe dih dihic. Wijsu jasuzaj nu nakmawi tewhoar ek wapkohho idsimer mom doare gizrefru divek sigagaw rugi. Izitojmez dup siwfac er ezan naoroada efe anivawte widodho uwudozih hu ci hiru lorapaja wenemewa. Gisida bakzundaw peju sinmilja keggois pudisa demojijo ju we mucurpub pub vo muv huseidu duav towuh. Di has mo ci paopa vibfad zidelpiw mediwus utaferij fiwliv hu ugi zihe ona dohwapof dobeweto. Mo ur muijifob ebezibpav efdovgic evoro zafecwi ehuuheidu ad ta so wapnim. Kerhec irarowij nuik pu jamav fuwom ece kuor ew oba lehmas ufujukadi."
+  },
+  "apiKey": "4636823ab4f5b8b16bc4b1cd160c1c3fba8ee43db4a93c5c0991d9a48bb7e2ed",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
