@@ -1,0 +1,26 @@
+{
+  "name": "Robert Wilkins",
+  "age": 25,
+  "address": {
+    "street": "Neoko Avenue",
+    "city": "Igikomi",
+    "state": "AZ",
+    "zip": "94168"
+  },
+  "contact": {
+    "phone": "(839) 442-1906",
+    "servicePhone": "800634279"
+  },
+  "birthday": "1979-08-19T04:38:27.992Z",
+  "ip": "170.215.66.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Viga rolbo ruwa zewtu dogwasa wedhak jevsa zisivne ubefun oliwen gav oti ra rem kob lojin edulocim ibesu. Rago dolre ortu wob ipuos ucwuom tih jip lunolja gosumzij ar zucnemsuk. Heh cihronwod ne ij et campula fi gopad lahzoale lihvoh sosvog su fuzvugo faj hin. Wad hifi pizbutuv kinajeh tomle migiubu kimpekhub ju beihi iwad bavtuwpez tu tocof je tihoco. Pokho folde amo otu bun tuze kiidgef bezagfe bej tarnema em sarpalad sonnowaf fu uwoh.",
+    "bio": "Ro kuge oktejzu oze indugmo sezre digruv ek vizcoji cu nedmiw siji luel foangi dofduf. Kacfo jopetwab afoge zazeh ca mahvidse gu vaj acu ohi le tud. Ho zuv ij cofu okufo lab edenevuc bepmodul arodu me dosbilmus kaz."
+  },
+  "apiKey": "d4cf7c6c3d5c400ff0082f78ac687326d16f7ac2d2c9fc80101a437e3822cca7",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
