@@ -1,0 +1,26 @@
+{
+  "name": "Annie Rivera",
+  "age": 27,
+  "address": {
+    "street": "Loot Place",
+    "city": "Famuwo",
+    "state": "VA",
+    "zip": "56493"
+  },
+  "contact": {
+    "phone": "(642) 742-7901",
+    "servicePhone": "800133184"
+  },
+  "birthday": "1985-09-07T22:43:40.722Z",
+  "ip": "227.90.187.208",
+  "foo": "bar",
+  "profile": {
+    "about": "Gi cub vuso samboubo jom sumsic tapibzug je alazobe ceusazi voshan jevnu za. Tavamuf wod cumaco jimsanba fa teisifub hem webru ruvehrow kesotir dizi totasuwen. Uwgiz rokulwe awpa fo ru uli beri jahopif vuntum rissoim repe puwbobta cikri poc.",
+    "bio": "Muh oga fouh saral wejsaj wivwuw uvgeanu sov som me vup lo. Wicbaf corbe hemub faipo pizel tuod dekuoru mithesgag fatma foog niv ze an fojzabhu emakeh ajaile tiphoz vohoz. Vin tuvim tamikru diw ca ef goz wuric keuk divgu tahab felhoigu ut jial dob. Fa un zidlev so ehu biafibi ewagat tisgu foc awro gel ib kurzip wun jalzul kette vugol tuh. Toewbu kagic bowhubo idnanhe pucke ko canambo mukes uhawuv sukuwu abbirul udvi reiwefo uv."
+  },
+  "apiKey": "2200c2434c7abd5119fc9cf5217a53f357cad23bdd975a18971f122e909331cd",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
