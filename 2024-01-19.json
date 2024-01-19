@@ -1,0 +1,26 @@
+{
+  "name": "Jeffery Reed",
+  "age": 38,
+  "address": {
+    "street": "Mada Grove",
+    "city": "Eginifrah",
+    "state": "AK",
+    "zip": "71459"
+  },
+  "contact": {
+    "phone": "(750) 400-4265",
+    "servicePhone": "800827767"
+  },
+  "birthday": "1989-05-19T01:58:40.041Z",
+  "ip": "123.110.150.210",
+  "foo": "bar",
+  "profile": {
+    "about": "Tobittu riidu vavajuk woro giw ruidazo geoz dajofufa dotet gukalsor ban olepuvo segutpa ru. Ulu gumvotal bo jekomza lipucbu zaennub bapat irevewga dabpuabu sokke juji poh fudsulco. Lekum vilom sazkidfab ni pij rihnol tozdati zotusu ap cezzeeme fapizsi ibipuhge pe fucozcad.",
+    "bio": "Jeaseno azinapca vilpajhu givlokena uhop vukivvik finjel pone id da hesovuv edzobkoj ugo meno. Ges keirru rupacsu onuroaza kiki dak ejasirov kekcut maveziwez pip af oz luvo uhupo noteh cuwadga ciwtopcir sitcefo. Dagal is tovri aw duwo bila pece da gi suokedis ranu geaktar oteosu. Luwuv zusafu akuconve heffoad oci cukzoefa ehabo gopoawo teg goga ken nihej umkof uhukib me torad."
+  },
+  "apiKey": "9a1d36801b74b21fc31fdb18d8be7dbe7023fd4f0c3cba29fae3e2a5f57a5986",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
