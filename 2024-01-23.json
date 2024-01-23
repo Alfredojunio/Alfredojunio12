@@ -1,0 +1,26 @@
+{
+  "name": "Estella Fernandez",
+  "age": 46,
+  "address": {
+    "street": "Zihbad Drive",
+    "city": "Zofepuzi",
+    "state": "NH",
+    "zip": "30964"
+  },
+  "contact": {
+    "phone": "(500) 319-7974",
+    "servicePhone": "800477738"
+  },
+  "birthday": "1998-02-17T18:30:20.058Z",
+  "ip": "234.239.3.148",
+  "foo": "bar",
+  "profile": {
+    "about": "Biz opsapi zuga fogsimzec duv zuzle mognop ve malapa ruwakibed oca tamim ek jorwan halolaji. Vi ji opic edrimvi degdij terev hucmul epogo govighod nefvapke fiwutbu tutihlu gukhod wesozvu. Dipir pigim abibu wisummon woacula gaju falezew kobotepe buununak lifaova tuh pitto ac hasi tonuto curku zubkusa.",
+    "bio": "Leskaribe doleba lu ufu zorju ef ka va vapa rovmuzjo heruteiru rueso. Pi motuman ki hota ti ku cihnidma im pad igcibpe du cihvuto jebun sovfuiva. Hek akgas obhani anovo fiviw tadzeh risuc nu zukun le sicnokes adowoun honle voojo latujko."
+  },
+  "apiKey": "a88b8c5022ad8b2db07dd846291749afb468625e5f3e0565622a629ae0bebbf9",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
