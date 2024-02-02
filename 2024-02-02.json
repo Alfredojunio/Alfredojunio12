@@ -1,0 +1,26 @@
+{
+  "name": "Matthew Harris",
+  "age": 33,
+  "address": {
+    "street": "Joka Lane",
+    "city": "Zajoboh",
+    "state": "TX",
+    "zip": "93897"
+  },
+  "contact": {
+    "phone": "(433) 622-4799",
+    "servicePhone": "800214767"
+  },
+  "birthday": "1989-01-15T19:50:14.050Z",
+  "ip": "175.248.83.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Raza revuv luwow faniguf logehu hi if zanoweul buwufat camo lovkihda supguruz. Aptav ulu nikewa uzu zobder lukuzru lu kosev wec azanwi zehmekwal hihas tawum. Siruh terofnur ci lugji sikav vujniug ibhete pecup juumu liwselhuz zobhomlev girtis varek.",
+    "bio": "Jo utjejpo jumi wupkepe cow oka jod tuze hahjusuc cuke ducedo polukmuf poreuh felna kezhu. Laga wuk sunes ko ivife vazufmu hetiamu undal we pak kucej lo hag puk luubdof. Ar zeura vi utiji wa og vu buvachiv utoib tufuuho ogme fusovaf lisuj. Vampe focpibow guw vinuun fuk ruskus enpesa zuiwehe usiefle pezeaba golde mafpa vod uriwa. Dub ze ci co ce ur cu ufubeje lehmibe za bukusbop upi wu gofcupot."
+  },
+  "apiKey": "629c0b1e484bcd68571be50e7572264d1f1c0ee52ccd50dc4ddaf77670a19393",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
