@@ -1,0 +1,26 @@
+{
+  "name": "Christina Santos",
+  "age": 19,
+  "address": {
+    "street": "Kooca River",
+    "city": "Wodife",
+    "state": "ND",
+    "zip": "46566"
+  },
+  "contact": {
+    "phone": "(213) 901-1503",
+    "servicePhone": "800214353"
+  },
+  "birthday": "1977-02-12T18:28:51.509Z",
+  "ip": "214.133.138.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Inva ramworrit kaw wefwagek ensozgew monihju sutiwo haj bespesro cisfij behek timvular ihfaite bab hiztifdo ib uvgi febwued. Lok rit huhza babe nojde cudawor feraf kihdiwus kitgi uni tidu mer gulisato toilesis weokun pijzu tizjuto. Bogez hode to ho to bet fiw ibu sivgam caiwo lu cehev atezu ji uj suhnuc hunu wa.",
+    "bio": "Ajurej pe ri okaahusu itaba omjid wi metresi membowri tiono ipgi zogok zootaur lozutacoh mitsaksuw ro. Gu tohhi lo ucilaowo vaguhne of atuvikocu it kuvlion je so zarev vuc nezo tu fejnik zid barleh. Zorat peh ene jota aci veva tale og iri pecul se ge isalejduw pohic duejvil."
+  },
+  "apiKey": "332bb1373e4956827bb7cb52a9e126b5b85dbbfb8c2ad771c3a35a83f7a0663d",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}
