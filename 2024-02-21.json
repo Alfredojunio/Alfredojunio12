@@ -1,0 +1,26 @@
+{
+  "name": "Minerva Mendez",
+  "age": 23,
+  "address": {
+    "street": "Avora Manor",
+    "city": "Miukoza",
+    "state": "OR",
+    "zip": "68138"
+  },
+  "contact": {
+    "phone": "(412) 261-9144",
+    "servicePhone": "800158617"
+  },
+  "birthday": "1959-10-31T13:33:27.782Z",
+  "ip": "135.28.252.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Tis bonudec jeh jeppum cizmi fuffirjib dowli gadejit motakwu tifug bijer uhirohif vozac fu ika fag vo. Pakakho utate hodfe sew nate lopru beohi jaduno ef raz fucawiji zogiz fir ekinugbav evopo kupnipow wu. Icuwegu juhhuto ku apevuil wawlenic zi bolvano if culfefri lisov uf vubbu.",
+    "bio": "Sen vilbac ku id vogozri zapco bufaj in cad otejo vijtekiv nitembit ra sa nir ki gi ohpocle. Isi imodemez inemuwac ecasezap wig ujsat lo lahila ba ji wujcan za meuconi jil. Gotreud tihgo voah karcehiw alzacel irce kohwu kituuna bomguoji nafiwon epu su dedseva ravajer lifufo wigci faved."
+  },
+  "apiKey": "43d1f0adb7f3ff7cee4c42c8a382bdd78ce0418f4db302f689b7a70ad70f11c5",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
