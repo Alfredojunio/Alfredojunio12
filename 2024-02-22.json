@@ -1,0 +1,26 @@
+{
+  "name": "Jeff McCoy",
+  "age": 35,
+  "address": {
+    "street": "Zadva Manor",
+    "city": "Hacahad",
+    "state": "NV",
+    "zip": "64644"
+  },
+  "contact": {
+    "phone": "(468) 884-2143",
+    "servicePhone": "800798286"
+  },
+  "birthday": "1989-01-17T18:16:43.156Z",
+  "ip": "11.15.209.57",
+  "foo": "bar",
+  "profile": {
+    "about": "Muono jok ektedhu zife gazalif litep bonba zuc hef pupsuri bijzob fitsu uz co wida. Vuwruvziw jiupoba mapepav tiv ga vasehwo ziduce dobsimhat wawi upa hu jownoztu zorfeoke zajuk ek. Kubbemhuk venoami mafbu rizakeh kijnev bihfoner nosephip tispociv efi relvaf lebi mizuv nev eje nasfif. Sop migli teivu juksu luvbotipo afizi su kacariv jacekob kafuhotit wa wuaho bud movvewu tihe nehuk. Ma fen fuzuvo labjoc bamokoc obwihhov bokeeja jikoaba oh hirehji edtuw utpasme nekih. Ja ekbi vez tid kilofded lu zoutoduf luz boz hak junguwi iwsigu zazivunid mehaz.",
+    "bio": "Veefziz fegovo sa peilo cufodgo kidoej voufu jaukkij fev ofwe ragid isotopit bertanji rofbomaj wokbuoj lupifaoh. Seheizo jap pigrorum lisku unwe fatper gulfo riwwelkun golgajow tibhabumi kerjonim amkere nanakofa newcinjo sebikko. Ac sesuveb rejmir tiw nurver gesgogha ivewut lilnid or facuz simime korik."
+  },
+  "apiKey": "3128d29d45b9491ab9c2a37e3c11e6b18eebcc641d95c895ce5df503e6237b23",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
