@@ -1,0 +1,26 @@
+{
+  "name": "Trevor Martin",
+  "age": 40,
+  "address": {
+    "street": "Simi Way",
+    "city": "Gabratjam",
+    "state": "UT",
+    "zip": "75828"
+  },
+  "contact": {
+    "phone": "(420) 206-8969",
+    "servicePhone": "800644321"
+  },
+  "birthday": "2004-01-26T08:51:15.714Z",
+  "ip": "20.76.226.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Buagi zerusi urakihce wunwu powetuk ponjav cef vo otgote mefogat raga wiluzu wihivo wevlevge vuk vukru feko tu. Dal fegatij ceoku wunekiw wa geugomat ogese kupakrun osetoga ekuzo tugaw kadidop za wujne doz. Filoz il felti najvimfin ojca ta wo wak tirani ifganka dafa ovlat. Ezacumal elapuc ebujemi zuwboffu con diek du gegazwu egogusoh ci mesidja luz. Odfoes jis caejavi nazbaito ganuhla ugovojzit cocato tupke biih heguruco go fesu kig ajjero.",
+    "bio": "Teg bel ruswitofa papop tuotaomi go wokevi vijaf sufer tag kiduflav icuten uhuzeh. Pefpulme oguca zap okawo je santo re baleh lurim ozorogwi ha opwu. Ol ta nulli ha mimivi loj be gagmalo zo nac oture vopeh gere za."
+  },
+  "apiKey": "d163f1fc5cc3eeb179817c648827f3d0a45f8aa6667aba19352f97167a3e756a",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
