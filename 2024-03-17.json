@@ -1,0 +1,26 @@
+{
+  "name": "Ricardo Ramirez",
+  "age": 28,
+  "address": {
+    "street": "Asabug Path",
+    "city": "Pigelani",
+    "state": "CO",
+    "zip": "31587"
+  },
+  "contact": {
+    "phone": "(565) 618-3958",
+    "servicePhone": "800187651"
+  },
+  "birthday": "2001-04-12T07:43:58.828Z",
+  "ip": "46.140.181.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Nisi cepsihvu zappic safaba vuwdeljej petzo fuwec han ogegav elaje ejajo igfuro siruw suve vuk evuz. Si ka fu mehonduf vitjoc masat weboz dak macod bo ba fohekean ceonuco evajigohu gaak. Si ebga hepunuke sebowiv vitgiw havla abpe zapjek ejlosluw cukkewa neguduwiw pogow gepu. Dem pilevzu zef fu ikre ik fecjem zekgifun ureitine tisijen alpa guluvin.",
+    "bio": "Rugwehe imavuup idonoweb itahij ot bihwen nupfiv ipelij fom hajoz utsaza cew toeh row gon. Hatbolani kaok aj zaltoli vefob wuzamso cugfid dak ete poklaag odaifievo owu wuwnamser manejhug mobet uvozadat nunuvgen jahohucu. Aru mef dekarulof pofba puic ithi doto pe tushav cujjug vot oni rudfo guflo vu wadirot. Tugfehwo weproz eposane witum jiveru ikufu zirzubsip do ode sejgilno jotihluf eki rafjer evu fogu."
+  },
+  "apiKey": "e3abb295f4e5c492ee3ec54f5934c2db953ce8f7f0d6c9ccf1d330b81966fec1",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
