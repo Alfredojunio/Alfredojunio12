@@ -1,0 +1,26 @@
+{
+  "name": "Brandon Thompson",
+  "age": 19,
+  "address": {
+    "street": "Lucze Terrace",
+    "city": "Dejleica",
+    "state": "MO",
+    "zip": "10403"
+  },
+  "contact": {
+    "phone": "(985) 206-3009",
+    "servicePhone": "800881144"
+  },
+  "birthday": "2002-04-14T11:17:02.729Z",
+  "ip": "108.83.116.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Vot pat del izoleuti nafedu riblu dik turenwib atupuhig wopnoj za foid. Foaczec pome zom eb uc bohfan vuhetof uj koh azeze husibji jef hotbengez fu pap bob bulbum. Losfu susi gapuf lupo somgaofu zucnod tumdu leg irena zutga luhdibwa un vuzigow.",
+    "bio": "Gusaba ke isuzos fe musak pij caw faardik je kejiwser ikguf obiloate kasatmu diuza. De gowheja joc ohiji gotiof fidhe etiac losna mirinoma fomowa gi rasfumeh du bozlal hip ju nig. Gu cecufowu fitula fosne geuc pirevu zob jozodu pehiz zaf eva punem fobferhiz nuvruh uhibon."
+  },
+  "apiKey": "038f1f9bd00b1abb5733336e2388f1891e566d8cb4f6cbcf568bb3680fab8e69",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
