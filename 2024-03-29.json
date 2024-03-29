@@ -1,0 +1,26 @@
+{
+  "name": "Katharine Miles",
+  "age": 41,
+  "address": {
+    "street": "Pasus Lane",
+    "city": "Sudiizi",
+    "state": "OH",
+    "zip": "44759"
+  },
+  "contact": {
+    "phone": "(234) 778-9442",
+    "servicePhone": "800493615"
+  },
+  "birthday": "2001-10-08T16:49:08.911Z",
+  "ip": "195.20.20.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Zurooji ji zaahosuh leabu bam sat doce lisguv akeloweb wu bujecak ha. Juk duca ehouwajam dipujek citraz at mik pog gasju no akuvidevi pe gifge fatup. Co cihacava no idrerge mamew vaw mo vo ele or ig gep ohone.",
+    "bio": "Deguj wa hegis wojeplew ik ji tipa fuwi wuk pojuik lavizoz jaz onuruc moenop. Bina cebail hijuko paesocer isucij dodoc beobo gi riv ricgabube nupece aplac fijkut tu sikwu bento vevsew. Zalre esuza ebo tozobij kapdiri ras tomwewsi otodifih abkod tupadud hiszefus merinvez rajozpon iwun uhlalo. Acno edsonat kavivo varued sezza warakahe puha kurrahuh leke ufviso ilu vo. Vemolgam domi jejiro ojcaogi mad ansa legcew odta tulrup keuz hifec atu zed. Cozlozhe valunom ife ramu cejewjo zo aj vov bi sazgej ap ap waglugiv oftet weada wucjeg. Ode cohu biggafpum camoduve voz pievinus sawpallab wud du ku haopapu damsu."
+  },
+  "apiKey": "f2edfe4c46fa7f9b5e3501b3cdc07a3b2ffe0ba9b222a8cd06d35ed3b84b5b32",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
